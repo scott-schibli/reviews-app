@@ -1,0 +1,35 @@
+.top-nav-container{
+    margin-top: 50px;
+    width: 50%;
+    max-width: 800px;
+    
+}
+
+.top-nav-container .first-group {
+    float: left;
+    width: 50%;
+}
+
+.top-nav-container .first-group .rating-container{
+    width: auto;
+    float: left;
+}
+    .top-nav-container .first-group .rating-container .avg-rating-text{
+        float: left;
+        color: #BA1414;
+    }
+    .top-nav-container .first-group .rating-container .avg-rating{
+        float: right;
+        margin-left: 20px;
+        font-family: AvenirNext-Bold;
+        color: #2D8C52;
+    }   
+
+.top-nav-container .first-group .page-number {
+    float: right;
+    color: white;
+}
+
+.top-nav-container .next-button{
+    float: right;
+}

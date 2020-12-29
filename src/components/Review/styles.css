@@ -1,0 +1,53 @@
+.review-container{
+    background: #FFFFFF;
+    text-align: left;
+
+    margin-left: 2.5%;
+    margin-bottom: 10px;
+    padding: 20px;
+    width: 90%;
+
+    display: table;
+}
+
+.review-container .top-row{
+    display: table-row;
+    text-align: center;
+}
+    .review-container .company {
+        width: 60%;
+        text-align: left;
+        float: left;
+        font-family: AvenirNext-Bold;
+        font-size: 25px;
+    }
+
+    .review-container .review-specs{
+        float: right;
+    }
+
+        .review-container .review-specs .spec{
+            font-size: 15px;
+            height: 100%;
+            text-align: right;
+        }
+       
+        .review-container .review-specs .spec.two{
+            margin-left: 15px;
+            float: left;
+        }
+        .review-container .review-specs .spec.three{
+            margin-left: 40px;
+            float: right;
+        }
+
+.review-container .author {
+    display: table-row;
+    font-size: 15px;
+}
+
+.review-container .review-text{
+    display: table-row;
+    font-size: 15px;
+}
+

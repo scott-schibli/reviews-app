@@ -1,0 +1,16 @@
+.reviews-container{
+    width: 60%;
+    /* border-width: 0px 1px 0px 1px;
+    border-style: solid;
+    border-color: rgba(186, 20, 20, .5); */
+}
+
+.reviews-container .list{
+    width: 100%;
+    list-style-type: none;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    padding: 0;
+}
+

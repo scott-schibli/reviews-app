@@ -1,0 +1,28 @@
+.App {
+  font-family: AvenirNext-Regular;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-width: 1000px;
+}
+
+.app-name{
+  font-size: 35px;
+  color: #BA1414;
+  margin-top: 50px;
+}
+
+.content-div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1400px;
+}
+
+.data-error{
+  color: white;
+  margin-top: 50px;
+}
+

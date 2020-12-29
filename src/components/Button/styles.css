@@ -1,0 +1,9 @@
+.button{
+    width: 80px;
+    background: #FFFFFF;
+    border: 1px solid #BA1414;
+    border-radius: 2px;
+    font-size: 15px;
+    font-family: AvenirNext-Regular;
+    outline: none;
+}

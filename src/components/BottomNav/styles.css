@@ -1,0 +1,24 @@
+.bottom-nav-container {
+    margin-top: 10px;
+    width: 50%;
+}
+
+.bottom-nav-container .first-group{
+    float: left;
+    width: 50%;
+}
+
+    .bottom-nav-container .first-group .prev-button {
+        float: left;
+    }
+
+    .bottom-nav-container .first-group .page-number {
+        float: right;
+        margin-left: 40%;
+        color: white;
+    }
+
+.bottom-nav-container .next-button {
+    float: right;
+}
+
