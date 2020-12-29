@@ -1,28 +1,12 @@
 # Requirements
  
-Using the reviews api at `https://uuew576xa0.execute-api.us-east-1.amazonaws.com/production/reviews` create
-an app that loads and pages through the reviews returned by the API. Reviews should be displayed such that
-a non-technical user can easily see and do the following:
+Displays Reviews with data on each review in a easy to use interface for non-technical users. 
 
-* See a list of reviews with the following information
-  * Author
-  * Rating
-  * Review text
-  * Review date
-  * Review source
-  * Company the review is for
-* Page through multiple pages of reviews
-* See the average rating of all reviews currently displayed on the page.
+
   
-# API Query String Parameters
-
-`page` - page number to fetch
-  
-# Getting Started with Interview App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-Rename `env.local.sample` to `env.local` and set your API key.
+# Getting Started
+- npm install for dependences
+- must have your own .env and .env.local files with api url and api key to interace with server. 
 
 ## Available Scripts
 
