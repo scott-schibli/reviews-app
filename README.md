@@ -6,7 +6,7 @@ Displays Reviews with data on each review in a easy to use interface for non-tec
   
 # Getting Started
 - npm install for dependences
-- must have your own .env and .env.local files with api url and api key to interace with server. 
+- must have your own .env.local files with api url and api key to interace with server. 
 
 ## Available Scripts
 
